@@ -1,2 +1,7 @@
 # HeyReader
-this is the project of internet application course in UQU 2022 fall.
+this is the project of internet application course in UQU , 2022 fall.
+
+this is a static website for a book store that display in it different books.<br>
+this project has different pages for many functionalities such as : sign in/up , view the books, cart and payment. <br>
+
+they are all illustrated in the pdf documentation. <br>
